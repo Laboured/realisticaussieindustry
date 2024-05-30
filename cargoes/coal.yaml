@@ -1,0 +1,17 @@
+abbreviation: CO
+available: true
+classes: 16
+colour: 1
+id: 3
+label: NRCC
+longName: coal
+name: Coal
+penaltyLength: 0
+penaltyLowerBound: 255
+price: 5222
+sprite:
+  filename: cargoes/coal.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

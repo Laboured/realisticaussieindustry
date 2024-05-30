@@ -1,0 +1,55 @@
+available: true
+callbacks: ''
+cargoAcceptance:
+- WAIO
+cargoProduction:
+- IOCT
+colour: 1
+fundCostMultiplier: 175
+id: 1
+layout:
+- - - 0
+    - 1
+    - 1
+    - 1
+  - - 0
+    - 1
+    - 1
+    - 1
+  - - 0
+    - 1
+    - 1
+    - 1
+  - - 0
+    - 1
+    - 1
+    - 1
+name: Iron ore Crusher
+placement: anywhere
+probabilityInGame: 0
+probabilityMapGen: 5
+prospectChance: 0
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/iron-ore-crusher/1.png
+      left: -31
+      top: -34
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/iron-ore-crusher/2.png
+      left: -31
+      top: 0
+type: secondary

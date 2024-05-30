@@ -1,0 +1,17 @@
+abbreviation: PM
+available: true
+classes: 16
+colour: 235
+id: 1
+label: IOCT
+longName: iron ore concentrate
+name: Iron Ore Concentrate
+penaltyLength: 0
+penaltyLowerBound: 255
+price: 4112
+sprite:
+  filename: cargoes/iron-ore-concentrate.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

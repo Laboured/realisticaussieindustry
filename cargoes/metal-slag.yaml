@@ -1,0 +1,17 @@
+abbreviation: SL
+available: true
+classes: 16
+colour: 11
+id: 6
+label: MESL
+longName: metal slag
+name: Metal Slag
+penaltyLength: 0
+penaltyLowerBound: 255
+price: 2056
+sprite:
+  filename: cargoes/metal-slag.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

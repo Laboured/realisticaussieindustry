@@ -1,0 +1,17 @@
+abbreviation: CC
+available: true
+classes: 16
+colour: 1
+id: 2
+label: IICC
+longName: coal coke
+name: Coal Coke
+penaltyLength: 0
+penaltyLowerBound: 255
+price: 9910
+sprite:
+  filename: cargoes/coal-coke.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

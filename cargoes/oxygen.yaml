@@ -1,0 +1,17 @@
+abbreviation: OX
+available: true
+classes: 320
+colour: 13
+id: 5
+label: OXYG
+longName: oxygen
+name: Oxygen
+penaltyLength: 0
+penaltyLowerBound: 255
+price: 5592
+sprite:
+  filename: cargoes/oxygen.png
+  left: 0
+  top: 0
+unitName: Litres
+weight: 18

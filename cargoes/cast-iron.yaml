@@ -1,0 +1,17 @@
+abbreviation: CI
+available: true
+classes: 16
+colour: 15
+id: 10
+label: CAIR
+longName: cast iron
+name: Cast Iron
+penaltyLength: 0
+penaltyLowerBound: 255
+price: 45315
+sprite:
+  filename: cargoes/cast-iron.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

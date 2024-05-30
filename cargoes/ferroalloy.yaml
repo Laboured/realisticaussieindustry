@@ -1,0 +1,17 @@
+abbreviation: FA
+available: true
+classes: 16
+colour: 110
+id: 7
+label: FEAL
+longName: ferroalloy
+name: Ferroalloy
+penaltyLength: 0
+penaltyLowerBound: 255
+price: 60159
+sprite:
+  filename: cargoes/ferroalloy.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

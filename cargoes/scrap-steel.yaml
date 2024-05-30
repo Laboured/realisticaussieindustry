@@ -1,0 +1,17 @@
+abbreviation: SC
+available: true
+classes: 16
+colour: 6
+id: 12
+label: SCST
+longName: scrap steel
+name: Scrap Steel
+penaltyLength: 0
+penaltyLowerBound: 255
+price: 4112
+sprite:
+  filename: cargoes/scrap-steel.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16
